@@ -1,0 +1,25 @@
+# Godot 4+ specific ignores
+.godot/
+/android/
+
+# Godot 4+
+.import/
+.export/
+.export_presets.cfg
+
+# Godot Mono / C#
+.mono/
+.nuget/
+
+# Godot-specific
+godot.windows.editor.*
+godot.linuxbsd.editor.*
+godot.macos.editor.*
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Editor temp
+*.tmp
+

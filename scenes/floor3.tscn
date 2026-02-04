@@ -1,0 +1,16 @@
+[gd_scene load_steps=3 format=3 uid="uid://dxils5acyu7ts"]
+
+[ext_resource type="Texture2D" uid="uid://cfmewbr1u1oug" path="res://data/STC3-2.png" id="1_c8iff"]
+[ext_resource type="Texture2D" uid="uid://dusjtspgyrq2f" path="res://data/wider view.png" id="1_eue2o"]
+
+[node name="Floor3" type="Node2D"]
+
+[node name="extra background" type="Sprite2D" parent="."]
+position = Vector2(217, 159)
+scale = Vector2(1.6, 1.6)
+texture = ExtResource("1_eue2o")
+
+[node name="Floorimage" type="Sprite2D" parent="extra background"]
+position = Vector2(-44.374992, -47.499996)
+scale = Vector2(0.62499994, 0.62499994)
+texture = ExtResource("1_c8iff")
