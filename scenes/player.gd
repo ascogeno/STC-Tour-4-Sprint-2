@@ -1,6 +1,6 @@
 extends CharacterBody2D
 var can_tp = true
-@export var speed: float = 350.0
+@export var speed: float = 375.0
 
 func _physics_process(delta: float) -> void:
 	var dir := Vector2.ZERO
