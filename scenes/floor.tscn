@@ -1,16 +1,16 @@
-[gd_scene load_steps=3 format=3 uid="uid://fok8skpju2bh"]
+[gd_scene format=3 uid="uid://fok8skpju2bh"]
 
 [ext_resource type="Texture2D" uid="uid://dusjtspgyrq2f" path="res://data/wider view.png" id="1_kuqtn"]
 [ext_resource type="Texture2D" uid="uid://bv34oooalppwi" path="res://data/STC1-2.png" id="1_ukw5w"]
 
-[node name="Floor" type="Node2D"]
+[node name="Floor" type="Node2D" unique_id=584820508]
 
-[node name="Extra background" type="Sprite2D" parent="."]
+[node name="Extra background" type="Sprite2D" parent="." unique_id=1066680968]
 position = Vector2(1078, 874)
 scale = Vector2(1.6, 1.6)
 texture = ExtResource("1_kuqtn")
 
-[node name="FloorImage" type="Sprite2D" parent="Extra background"]
+[node name="FloorImage" type="Sprite2D" parent="Extra background" unique_id=1943860643]
 position = Vector2(-576.87494, -311.87497)
 scale = Vector2(0.62499994, 0.62499994)
 texture = ExtResource("1_ukw5w")
