@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://csavp60v5wgbw"
-path="res://.godot/imported/201779.png-addedd38ea065757e1a21c98b8d859bc.ctex"
+uid="uid://ckdmsbijrpdq1"
+path="res://.godot/imported/SNES - Super Mario RPG_ Legend of the Seven Stars - Playable Characters - Mario.png-3bdea6c862bbde13b66505c070faa7ff.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://data/201779.png"
-dest_files=["res://.godot/imported/201779.png-addedd38ea065757e1a21c98b8d859bc.ctex"]
+source_file="res://spritesheet/SNES - Super Mario RPG_ Legend of the Seven Stars - Playable Characters - Mario.png"
+dest_files=["res://.godot/imported/SNES - Super Mario RPG_ Legend of the Seven Stars - Playable Characters - Mario.png-3bdea6c862bbde13b66505c070faa7ff.ctex"]
 
 [params]
 
