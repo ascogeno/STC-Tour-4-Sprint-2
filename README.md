@@ -37,7 +37,7 @@ To recreate the development environment, you need the following software and/or 
 I found these websites useful in developing this software:
 
 * [ChatGPT](https://chatgpt.com/)
-* [Youtube (this video in particular](https://www.youtube.com/watch?v=u2fwxuHZXIA&t=242s)
+* [Youtube (this video in particular)](https://www.youtube.com/watch?v=u2fwxuHZXIA&t=242s)
 * [Godot documentation](https://docs.godotengine.org/en/stable/getting_started/step_by_step/nodes_and_scenes.html)
 
 ## Future Work
